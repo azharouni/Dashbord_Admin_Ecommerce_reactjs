@@ -1,0 +1,48 @@
+.confirme_ordre{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 20px;
+    background-color: #3bb077 ;
+    color: white ;
+    cursor: pointer;
+    margin-right: 40px;
+
+}
+
+.delete_ordre{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 20px;
+    background-color: red ;
+    color: white ;
+    cursor: pointer;
+    margin-right: 40px;
+
+}
+
+/*
+.Detailcommande{
+
+  background-color: rgb(47, 90, 172) ;
+
+}
+  */
+  
+.search-container {
+    position: relative;
+  }
+  
+  .search-container input[type="text"] {
+    padding-left: 30px; /* Adjust this value to make space for the icon */
+  }
+  
+  .search-container svg {
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    fill: #555; /* Change this value to adjust the color of the icon */
+  }
+  
