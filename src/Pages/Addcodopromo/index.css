@@ -1,0 +1,19 @@
+
+
+  
+  .ant-btn-primary {
+    background-color: rgb(71, 172, 128);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+  }
+  
+  .ant-btn-primary:hover {
+    background-color: #e61f1f;
+  }
+  
+.container {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,57 @@
+.clientedit{
+    border: none;
+    border-radius: 10px;
+    padding: 5px 20px;
+    background-color:	#4B7BE5 ;
+    color: white ;
+    cursor: pointer;
+    margin-right: 40px;
+
+}
+.clientdelete{
+    color: red;
+    cursor: pointer;
+    
+    
+
+}
+.search-container {
+    position: relative;
+  }
+  
+  .search-container input[type="text"] {
+    padding-left: 30px; /* Adjust this value to make space for the icon */
+  }
+  
+  .search-container svg {
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    fill: #555; /* Change this value to adjust the color of the icon */
+      border-bottom-left-radius:2px;
+  }
+  
+  
+
+  
+  .addclient {
+    background-color: 	#4B7BE5; /* couleur de fond */
+    color: white; /* couleur du texte */
+    border: none; /* pas de bordure */
+    padding: 100px 200px; /* espace intérieur */
+    text-align: center; /* alignement du texte */
+    text-decoration: none; /* pas de soulignement */
+    display: inline-block; /* affichage en ligne */
+    font-size: 16px; /* taille de police */
+    margin: 10px; /* marge */
+    cursor: pointer; /* curseur de souris */
+    border-radius: 5px; /* bordure arrondie */
+    transition: background-color 0.3s ease-in-out; /* transition pour la couleur de fond */
+  }
+  
+  .addclient:hover {
+    background-color: #B0C4DE; /* couleur de fond au survol */
+  }

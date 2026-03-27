@@ -1,0 +1,22 @@
+
+
+  
+
+
+  
+  
+ 
+  
+
+  .add-offre-container .ant-btn-primary {
+    background-color: rgb(71, 172, 128);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+  }
+  
+  .add-offre-container .ant-btn-primary:hover {
+    background-color: #e61f1f;
+  }
+  
