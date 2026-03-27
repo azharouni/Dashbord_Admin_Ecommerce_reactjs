@@ -1,13 +1,29 @@
-# Dashbaord-Tutorial-using-React-and-Ant-Design
-This repo contains code base regarding youtube tutorial (https://youtu.be/xvBUgdKUz5g) on how to develop a simple admin Dashboard using ReactJS and Ant Design UI Components.
+# Dashbord_Admin_Ecommerce_reactjs
+ Front-End reactjs Dashbord Admin Ecommerce
+>>>>>>> bece42d8939e16b19ae90ba6ef2e6c83997bf920
+=======
+# Dashbord_Admin_Ecommerce_reactjs
+## Front-End ReactJS Admin Dashboard for E-commerce
 
-The main features includes:
-- App Header with logo, name and notificaiton icons
-- App Footer with static links
-- App Sidebar for pages routing using react-router-dom
-- API integration to fetch data from server
-- Dashboard page to show statistics cards, recenet orders, and revenue chart using ChartJS
-- Different Table pages like Inventory, Orders and Customers list
-- Notificationa and Comments Drawer opened from Header
-- Other misc. functions used in admin dashboard portal
+This repository contains a complete ReactJS admin dashboard for e-commerce management.
 
+### Features:
+- Complete admin interface with header, sidebar navigation, and footer
+- Dashboard statistics and charts
+- CRUD operations for Categories, Subcategories, Products, Clients, Orders, Promotions, Promo Codes, Offers
+- Inventory management
+- Login/Register authentication pages
+- Responsive design with modern UI components
+
+### Tech Stack:
+- ReactJS
+- React Router
+- Chart.js for data visualization
+- Custom API integration
+
+Deployed code ready for backend integration.
+
+=======
+# Dashbord_Admin_Ecommerce_reactjs
+ Front-End reactjs Dashbord Admin Ecommerce
+>>>>>>> bece42d8939e16b19ae90ba6ef2e6c83997bf920
